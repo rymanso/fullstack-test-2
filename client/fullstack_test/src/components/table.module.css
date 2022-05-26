@@ -1,0 +1,28 @@
+.table {
+  width: 600px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.table h2 {
+  line-height: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  color: #00205c;
+  text-align: center;
+}
+
+.table td {
+  color: #00205c;
+  background-color: #f8b195;
+}
+
+.icons {
+  cursor: pointer;
+  color: #00205c;
+  font-size: 24px;
+}
+
+.noData {
+  color: #00205c;
+}

@@ -1,0 +1,23 @@
+.tableContainer {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  gap: 50px;
+}
+
+.dropzone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  background-color: #f8b195;
+  border: 5px dashed #f67280;
+}
+
+.textColor {
+  color: #6c5b7b;
+}
+.header {
+  color: #00205c;
+}
